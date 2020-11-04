@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String... args) {
         var list = new ArrayList<String>(
-                List.of("Coff","CAPPU","latte"));
+                List.of("Computer","Laptop","Phone"));
 
         list.forEach((item)->
         {
