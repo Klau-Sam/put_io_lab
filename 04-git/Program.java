@@ -13,6 +13,7 @@ public class Main {
         {
             list.remove(thing);
         });
+		// siabadabada
         System.out.println(list);
     }
 }
