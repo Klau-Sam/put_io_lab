@@ -2,3 +2,4 @@
 Klaudyna Samelak
 04.11.2020
 Politechnika Poznańska
+Inżynieria Oprogramowania
