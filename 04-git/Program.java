@@ -8,7 +8,7 @@ public class Main {
         var list = new ArrayList<String>(
                 List.of("Computer","Laptop","Phone"));
 
-        list.forEach((item)->
+        list.forEach((thing)->
         {
             list.remove(item);
         });
