@@ -10,7 +10,7 @@ public class Main {
 
         list.forEach((thing)->
         {
-            list.remove(item);
+            list.remove(thing);
         });
         System.out.println(list);
     }
